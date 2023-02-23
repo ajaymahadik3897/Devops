@@ -9,7 +9,7 @@ public class StaticAndNonStatic {
 
     }
     public static void b(){
-        System.out.println("Static method");
+        System.out.println("Static methoda");
     }
         public static void main(String[] args) {
 
