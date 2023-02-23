@@ -5,7 +5,7 @@ package AJ;
 public class StaticAndNonStatic {
 
     public void a(){
-        System.out.println("Non static Method");
+        System.out.println("Non static Methoda");
 
     }
     public static void b(){
